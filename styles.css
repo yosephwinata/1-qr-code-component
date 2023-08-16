@@ -16,6 +16,7 @@ html {
 
 body {
   font-family: "Outfit", sans-serif;
+  font-size: 1.5rem;
   line-height: 1;
   font-weight: 400;
   background-color: #d5e1ef;
@@ -51,7 +52,6 @@ body {
 .description {
   width: 25.6rem;
   margin: 0 auto;
-  font-size: 1.5rem;
   letter-spacing: 0.19px;
   line-height: 1.21;
   color: #7d889e;

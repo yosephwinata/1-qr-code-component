@@ -11,6 +11,9 @@ body {
 }
 
 html {
+  /* Change the default font-size to 10px */
+  /* Browser's default font-size is 16px */
+  /* So, 10px / 16px = 0.625 = 62.5% */
   font-size: 62.5%;
 }
 
